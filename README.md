@@ -1,4 +1,4 @@
-# VARDON: Enzyme Classification Pipeline
+# Dynasp: Enzyme Classification Pipeline
 
 This repository contains Python scripts for VARDON (Variational Adaptive Real Dropout Neural Network), a pipeline designed for enzyme classification across 12 fish species.
 
